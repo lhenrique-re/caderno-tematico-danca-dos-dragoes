@@ -300,6 +300,31 @@ A evolução ocorreu aproximadamente da seguinte maneira:
 ↓
 **Síntese das informações**
 
-Dessa forma, o NotebookLM foi utilizado não apenas como uma
-ferramenta para gerar resumos, mas como apoio ao processo de
-investigação, comparação e organização do conhecimento.
+
+
+# 10. Conclusão da Engenharia de Prompts
+
+A engenharia de prompts foi fundamental para transformar uma
+pesquisa inicial em uma investigação mais estruturada.
+
+Os primeiros prompts foram utilizados para obter uma visão geral
+do tema. Em seguida, as perguntas foram progressivamente
+especializadas para investigar causas, personagens, dragões,
+cronologia e divergências entre as fontes.
+
+Um dos principais aprendizados foi perceber que uma resposta
+detalhada da inteligência artificial não significa necessariamente
+que todas as informações estejam corretas. Por isso, os prompts
+posteriores passaram a solicitar comparação entre fontes,
+identificação de contradições e classificação das informações
+quanto ao seu grau de confiabilidade.
+
+As "cicatrizes" do processo foram justamente as situações em que
+uma resposta inicial precisou ser questionada ou confrontada com
+outras fontes. Essas situações contribuíram para melhorar os
+prompts e para desenvolver uma abordagem mais crítica na utilização
+do NotebookLM.
+
+Dessa forma, o NotebookLM foi utilizado não apenas para gerar
+resumos, mas como uma ferramenta de apoio à investigação,
+comparação e organização do conhecimento.
